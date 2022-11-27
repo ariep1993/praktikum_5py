@@ -57,3 +57,4 @@ print(isi)
 
 print("===================================================================")
   
+1. Ini adalah hasil run dari syntax latihan module 5 yang saya buat
