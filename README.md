@@ -15,14 +15,7 @@ Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas seba
 
 ![Latihan-soal1](https://user-images.githubusercontent.com/115473865/204139139-972da427-6dca-4207-b457-cbb67be5c468.png)
 
-print("===================================================================")
-print("Nama         :   saripudin")
-print("NIM          :   312210077")
-print("Kelas        :   TI.22.B1")
-print("Mata Kuliah  :   B. Pemrograman")
-print("===================================================================")
-
-* Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5
+# Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5
 
   ```Python
 # Buat dictionary daftar kontak
