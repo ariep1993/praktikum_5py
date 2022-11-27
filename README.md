@@ -18,10 +18,10 @@ Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas seba
 # Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5
   ```Python
 print("===================================================================")
-print("Nama         :   Garnish Andhika Pratama")
-print("NIM          :   312210161")
+print("Nama         :   sarpudin")
+print("NIM          :   312210077")
 print("Kelas        :   TI.22.B1")
-print("Mata Kuliah  :   Bahasa Pemrograman")
+print("Mata Kuliah  :   B. Pemrograman")
 print("===================================================================")
   
 # Buat dictionary daftar kontak
