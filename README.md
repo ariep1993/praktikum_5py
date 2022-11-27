@@ -57,11 +57,11 @@ print(isi)
 
 print("===================================================================")
 
-* Ini adalah hasil run dari syntax latihan module 5 yang saya buat
+# Ini adalah hasil run dari syntax latihan module 5 yang saya buat
 
 ![a5cb599d-0102-432b-b32f-75db30f7298d](https://user-images.githubusercontent.com/115473865/204140595-79d92f0b-ecae-4e8f-89e4-1ff11f313793.jpg)
 
-* Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut
+# Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut
 
 ![Latihan-soal2](https://user-images.githubusercontent.com/115473865/204140672-f324c76b-708c-4085-bc8f-1ffde1a95ee4.png)
 
@@ -71,10 +71,9 @@ Berikut hasil yang diinginkan pada soal praktikum 5
 
 ![Latihan-soal4](https://user-images.githubusercontent.com/115473865/204140909-0b5eada3-0ea2-409f-9a59-68264a0c0fbb.png)
 
-* Setelah memahami materi saya membuat syntax sebagai berikut untuk memenuhi tugas praktikum module 5 :
-  
+
+# Setelah memahami materi saya membuat syntax sebagai berikut untuk memenuhi tugas praktikum module 5 :
   ```Python
-  
 baris = []
 x = PrettyTable()
 
