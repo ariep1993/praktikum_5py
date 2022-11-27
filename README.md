@@ -1,60 +1,52 @@
-# praktikum5 pertemuan 10
-Repositiry ini dibuat untuk memenuhi tugas Pertemuan 10 - Bahasa Pemrograman (Module Praktikum 5)
+# praktikum 5 pertemuan 10 bahasa pemograman
 
-Nama : saripudin
+nama : saripudin
 
-NIM : 312210077
+nim  : 312210077
 
-Matkul : Bahasa Pemrograman
+kls  : TI22B1
 
-Kelas : TI.22.B.1
+1. Lalu buka Latihan1.py dan masukan coding sebagai berikut lalu run dengan mengetikan perintah berikut diterminal python Latihan1.py:
 
-Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 5) Dosen memberi tugas sebagai berikut :
+![Screenshot (66)](https://user-images.githubusercontent.com/115473865/204144307-064277d0-3912-44eb-bc45-ba7fc9376b1d.png)
 
-* Latihan yang ada pada module praktikum 5
+hasil nya:
 
-![Latihan-soal1](https://user-images.githubusercontent.com/115473865/204139139-972da427-6dca-4207-b457-cbb67be5c468.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/115473865/204144380-94b19307-17f7-4820-a97c-80c59608318e.png)
 
-# Berikut adalah program syntax yang saya buat untuk memenuhi latihan module 5
-  ```Python
-print("===================================================================")
-print("Nama         :   sarpudin")
-print("NIM          :   312210077")
-print("Kelas        :   TI.22.B1")
-print("Mata Kuliah  :   B. Pemrograman")
-print("===================================================================")
-  
-# Buat dictionary daftar kontak
-print("Buat dictionary nama sebagai key, dan nomor sebagai value")
+2. Selanjutnya kita akan buat program crud sederhana dan berikut flowchart program yang akan dibuat.
 
-isi = {'Ari': '081267888', 'Dina': '087677776'}
-print("Nama | Nomor kontak")
-print(isi)
+![068271d6-2ef1-4844-99f2-b380baace205](https://user-images.githubusercontent.com/115473865/204145007-85a06274-593d-46ef-aa6e-1efb80b73ae0.jpg)
 
-print("Tampilkan Kontaknya Ari")
-print(isi['Ari'])
+3. Lalu buka file Praktikum.py dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal python Praktikum.py:
 
-print("Tambah kontak baru dengan nama Riko, nomor 087654544")
-isi['Riko']= '087654544'
-print(isi)
+![spd](https://user-images.githubusercontent.com/115473865/204145200-3a7a3780-df23-4d4b-8401-a89085a1265b.png)
 
-print("Ubah kontak Dina dengan nomor baru 088999776")
-isi['Dina']= '088999777'
-print(isi)
+Berikut hasilnya :
 
-print("Tampilkan semua Nama")
-print(isi.keys())
+Jika memilih opsi C = Menambah data maka akan tampil sebagai berikut :
 
-print("Tampilkan semua Nomor")
-print(isi.values())
+![0e5513a5-935f-41d3-afad-ed5c288dba21](https://user-images.githubusercontent.com/115473865/204145331-d15778cd-8fbd-4015-80e9-5646cfadb55c.jpg)
 
-print("Tampilkan daftar Nama dan nomornya")
-print(isi.items())
+Jika memilih opsi R = Melihat semua data maka akan tampil sebagai berikut :
 
-print("Hapus kontak Dina")
-del isi['Dina']
-print(isi)
+![31c100a6-5c98-4235-8310-fa00e65ab588](https://user-images.githubusercontent.com/115473865/204145396-eb827414-58b4-4bd6-8796-de3606d65952.jpg)
 
-print("===================================================================")
-  
-1. Ini adalah hasil run dari syntax latihan module 5 yang saya buat
+Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+
+![99fbbd21-a105-4ae4-bda9-28c07cd9ff98](https://user-images.githubusercontent.com/115473865/204145547-54a76335-aca5-4794-9fd4-15e145b215ed.jpg)
+
+Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
+
+![76d668a3-cf05-4018-8e8b-7fd1213fa933](https://user-images.githubusercontent.com/115473865/204145749-7684c195-4302-4abe-b555-5084f8566dad.jpg)
+
+Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+
+![ba1e20e1-9b1f-4d7e-b996-873ec1179879](https://user-images.githubusercontent.com/115473865/204145871-4fef8738-d0e0-4f23-ad0c-07414e28cec7.jpg)
+
+Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+
+![914cdae4-f8cb-4669-9f42-9ba241e5acef](https://user-images.githubusercontent.com/115473865/204145911-89f1d838-782d-41e0-bfd2-085a546d6726.jpg)
+
+
+
